@@ -10,9 +10,6 @@ const FooterBanner = ({ footerBanner: {
   return (
     <div className='footer-banner-container'>
       <div className='banner-desc'>
-        <div className='left'>{ }</div>
-
-
         <div className='left'>
           <p>{discount}</p>
           <h3>{largeText1}</h3>
